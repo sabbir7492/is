@@ -582,7 +582,7 @@ body {
     grid-template-columns: 2fr 1fr;
     grid-gap: 1rem; }
     #header-home nav .logo img {
-      width: 70%;
+      width: 250px;
       height: 70px;
       margin-top: 2rem; }
     #header-home nav ul {
@@ -624,7 +624,7 @@ body {
     grid-template-columns: 2fr 1fr;
     grid-gap: 1rem; }
     #header-inner nav .logo img {
-      width: 70%;
+      width: 250px;
       height: 70px;
       margin-top: 2rem; }
     #header-inner nav ul {
